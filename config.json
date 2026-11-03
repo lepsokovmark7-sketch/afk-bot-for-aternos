@@ -1,6 +1,7 @@
 {
   "ip": "spacess.aternos.me",
-  "port": "37319",
+  "port": 37319,
   "name": "botik",
-  "version": "1.21.11"
+  "version": "1.21.11",
+  "auth": "offline"
 }
